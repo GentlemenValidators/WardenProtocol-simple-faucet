@@ -1,5 +1,6 @@
 
-![Monitoring Image 2](https://github.com/GentlemenValidators/WardenProtocol-simple-faucet/blob/main/Screenshot_1.png)## Configuration Files Setup
+![Monitoring Image 2](https://github.com/GentlemenValidators/WardenProtocol-simple-faucet/blob/main/Screenshot_2.png)
+## Configuration Files Setup
 
 1. **Environment Variables**
    Copy the example environment variables file to create your own `.env` file.
